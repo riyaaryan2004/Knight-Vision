@@ -34,4 +34,4 @@ The game includes complete chess logic such as piece movements, valid move check
 1. Clone this repository  
    ```bash
    git clone https://github.com/your-username/Knight-Vision.git
-   cd knightvision
+   cd Knight-Vision
